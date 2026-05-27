@@ -82,3 +82,6 @@ Aquest portfoli demostra que el nostre rol no s'ha limitat a fer funcionar la te
 
 ---
 🚀 **L'equip de consultoria d'EverPia està llest per a la defensa final davant la junta directiva.**
+
+🏁 Conclusions de l'Aprenentatge
+He après a gestionar servidors i xarxes reals tant en Linux com en Windows, passant de tenir por a tenir l'autonomia de resoldre incidències sota pressió. He entès que la informàtica de debò no és només fer que tot funcioni, sinó protegir l'empresa amb ciberseguretat i complir estrictament les lleis de privacitat com la LOPD. Treballar en equip amb en l'Aran m'ha ensenyat a organitzar-me de forma professional fent servir metodologies àgils i control de versions amb GitHub. Finalment, he interioritzat que el nostre deure com a tècnics és dissenyar solucions eficients al núvol que respectin el medi ambient aplicant la filosofia de Green IT.
