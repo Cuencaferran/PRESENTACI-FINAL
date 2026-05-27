@@ -29,17 +29,17 @@ Davant l'augment de clients exigents, contractes crítics i servidors cremant, h
   * *Estructuració de l'equip de treball, gestió de repositoris amb Git i disseny del flux de treball corporatiu.*
 * 📁 **[projecte3 — Serveis de Xarxa i Primers Laboratoris](https://github.com/Cuencaferran/projecte3)**
   * *Control de fluxos mitjançant Kanban, rèplica web, sistemes d'emmagatzematge lògic (LVM vs Storage Spaces) i configuració de directoris estructurats.*
-* 📁 **[projecte4 — Publicació i Resolució de Noms](https://github.com/EL_TEU_USUARI/projecte4)**
+* 📁 **[projecte4 — Publicació i Resolució de Noms](https://github.com/Cuencaferran/projecte4)**
   * *Publicació de la configuració DNS directament en entorns de Git i mètodes de diagnosi.*
 
 ### 🚀 Desplegament Avançat en Clients Reals (GitHub Classroom)
-* 🍃 **[projecte5-Cuencaferran — Cas "La Incubadora"](https://github.com/EL_TEU_USUARI/projecte5-Cuencaferran)**
+* 🍃 **[projecte5-Cuencaferran — Cas "La Incubadora"](https://github.com/Cuencaferran/projecte5-Cuencaferran)**
   * *El gran salt tecnològic: Disseny tècnic integrat, transferència de fitxers segura (SFTP), instal·lació de Windows Server 2025, Active Directory, control de dominis i operacions de ciberseguretat contra malware i vulnerabilitats.*
-* 🎓 **[projecte6-Cuencaferran — Arquitectura Educativa Nexus](https://github.com/EL_TEU_USUARI/projecte6-Cuencaferran)**
+* 🎓 **[projecte6-Cuencaferran — Arquitectura Educativa Nexus](https://github.com/Cuencaferran/projecte6-Cuencaferran)**
   * *Desenvolupament d'una infraestructura e-learning robusta: El Duel de Titans (Apache vs Nginx), implantació de PKI, signatura digital corporativa i anàlisi comparatiu de Moodle vs Canvas LMS.*
-* 🚛 **[projecte7-Cuencaferran — Cas Real FoodLogistic S.A.](https://github.com/EL_TEU_USUARI/projecte7-Cuencaferran)**
+* 🚛 **[projecte7-Cuencaferran — Cas Real FoodLogistic S.A.](https://github.com/Cuencaferran/projecte-7-Cuencaferran)**
   * *Modernització d'una empresa nacional: Memòria tècnica de proposta, servidors de fitxers i impressió distribuïts, Operació Escut Digital (LOPD, Cookies i legalització web) i planificació temporal amb diagrames de Gantt professionals.*
-* 🌍 **[projecte8-Cuencaferran — Connecta't al Futur](https://github.com/EL_TEU_USUARI/projecte8-Cuencaferran)**
+* 🌍 **[projecte8-Cuencaferran — Connecta't al Futur](https://github.com/Cuencaferran/projecte-8-Cuencaferran)**
   * *Digitalització real de petites i mitjanes empreses locals aplicant directrius estrictes de Green IT i eficiència en el cloud.*
 
 ---
