@@ -25,7 +25,7 @@ Davant l'augment de clients exigents, contractes crítics i servidors cremant, h
 *Nota: Pots fer clic a cadascun dels títols o enllaços d'aquí sota per obrir directament el repositori independent de GitHub corresponent a cada projecte.*
 
 ### 🛠️ Fase Inicial i Fonaments (Projectes Base)
-* 📁 **[Projecte2 — Organització de la Consultora](https://github.com/EL_TEU_USUARI/Projecte2)**
+* 📁 **[Projecte2 — Organització de la Consultora]([https://github.com/EL_TEU_USUARI/Projecte2](https://github.com/Cuencaferran/Projecte2))**
   * *Estructuració de l'equip de treball, gestió de repositoris amb Git i disseny del flux de treball corporatiu.*
 * 📁 **[projecte3 — Serveis de Xarxa i Primers Laboratoris](https://github.com/EL_TEU_USUARI/projecte3)**
   * *Control de fluxos mitjançant Kanban, rèplica web, sistemes d'emmagatzematge lògic (LVM vs Storage Spaces) i configuració de directoris estructurats.*
