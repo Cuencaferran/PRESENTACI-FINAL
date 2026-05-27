@@ -27,7 +27,7 @@ Davant l'augment de clients exigents, contractes crítics i servidors cremant, h
 ### 🛠️ Fase Inicial i Fonaments (Projectes Base)
 * 📁 **[Projecte2 — Organització de la Consultora](https://github.com/Cuencaferran/Projecte2))**
   * *Estructuració de l'equip de treball, gestió de repositoris amb Git i disseny del flux de treball corporatiu.*
-* 📁 **[projecte3 — Serveis de Xarxa i Primers Laboratoris](https://github.com/EL_TEU_USUARI/projecte3)**
+* 📁 **[projecte3 — Serveis de Xarxa i Primers Laboratoris](https://github.com/Cuencaferran/projecte3)**
   * *Control de fluxos mitjançant Kanban, rèplica web, sistemes d'emmagatzematge lògic (LVM vs Storage Spaces) i configuració de directoris estructurats.*
 * 📁 **[projecte4 — Publicació i Resolució de Noms](https://github.com/EL_TEU_USUARI/projecte4)**
   * *Publicació de la configuració DNS directament en entorns de Git i mètodes de diagnosi.*
