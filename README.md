@@ -87,41 +87,29 @@ FoodLogistic S.A. és una empresa capdavantera en la distribució i logística a
 
 ---
 
-## 🛠️ Resum de Fites Tècniques Defensades (Casos Clínics)
-
-Al llarg del tribunal d'avui, es defensaran decisions crítiques preses de manera autònoma basant-nos en dades empíriques i laboratoris PoC:
-
-### 1. 🛡️ Còpies de Seguretat i Recuperació (Estratègia 3-2-1)
-Implementació de solucions automatitzades multiplataforma per protegir dades crítiques:
-* **A Windows:** Desplegament de **Duplicati** integrant un disc local secundari d'automatització horària coordinat amb una replicació remota al núvol (**Google Drive**).
-* **A Linux:** Creació d'scripts automatitzats en Bash (`fullbackup.sh` i `incrementalbackup.sh`) enllaçats a tasques programades de **Cron**, assegurant que la unitat externa en format **XFS** es munti i es desmunti exclusivament durant el procés de còpia per evitar atacs de *Ransomware*.
-
-### 🌐 2. Serveis de Directori Centralitzats (OpenLDAP & AD DS)
-Resolució del caos operatiu en les identitats del client. Instal·lació i disseny complet d'un arbre d'Unitats Organitzatives (`OU`), injecció d'usuaris mitjançant fitxers de càrrega estructurada `.ldif` en Linux, i integració completa de plantilles, grups i polítiques a **Active Directory** usant **Windows Server 2025**.
-
-### 🔌 3. Auditoria de Diagnosi de Xarxa i Resolució DNS
-Auditoria CLI contra servidors lents utilitzant eines avançades de diagnosi. Anàlisi en profunditat de respostes autoritatives, registres clau (`A`, `NS`, `MX`, `SOA`), controls de propagació (`TTL`) i validacions mitjançant mode interactiu de `nslookup` i ordres complexes de `dig` (com resolucions inverses `-x`).
-
-### 📂 5. Arquitectures Web d'Alt Rendiment (Apache vs Nginx)
-Defensa de la infraestructura web a partir del treball de camp de la maqueta educacional. Presentació de dades d'estrès, configuració multidomini, seguretat SSL/TLS, consums interns de RAM i CPU, i la tria justificada del servidor web d'acord amb el pressupost i requeriments del client.
+Perfecte! Aquí tens la taula **llesta per copiar i enganxar** al teu README:
 
 ---
 
-## 🧰 Stack Tecnològic i Eines de Gestió Utilitzades
-
-| Àrea | Eines i Tecnologies Utilitzades |
-| :--- | :--- |
-| **Sistemes Operatius** | Windows Server 2025, Ubuntu Server, Zorin OS, Windows 11 Pro |
-| **Serveis Core** | OpenLDAP, Active Directory, BIND9, NFS, CUPS, ProFTPd/sFTP, Apache, Nginx |
-| **Còpies i Clons** | Duplicity (Linux), Duplicati (Windows), Rescuezilla |
-| **Plataformes Web / LMS** | WordPress, Moodle, Canvas LMS |
-| **Disseny i Gestió Agil** | Figma (UI/UX), GitHub Classroom, Microsoft Planner (Kanban), Gantt |
+Perfecte! Aquí tens la taula **actualitzada amb sostenibilitat** (Green IT), llesta per copiar i enganxar:
 
 ---
 
-## 💚 Sostenibilitat i Qualitat Professional (Green IT)
+## 📊 Resum Executiu de Competències Assolides
 
-Aquest portfoli demostra que el nostre rol no s'ha limitat a fer funcionar la tecnologia, sinó a aplicar **criteris de Sostenibilitat i Informàtica Verda**. Cada decisió (com triar Nginx pel seu baix consum, ajustar mètriques de rendiment, implementar l'economia circular o auditar segons la LOPD) s'ha realitzat minimitzant la petjada de carboni de la infraestructura dels nostres clients.
+> *Un cop vistos els projectes, presento les competències clau que he desenvolupat al llarg del curs:*
+
+| Competència | Descripció | Projecte associat |
+|-------------|-------------|-------------------|
+| 🛡️ **Ciberseguretat i compliment legal** | PKI, signatura digital, LOPD, RGPD | P6 Nexus, P7 FoodLogistic |
+| 🌐 **Administració de xarxes i serveis** | DNS, DHCP, LDAP, Active Directory | P3, P4, P5 Incubadora |
+| 💻 **Servidors web i alt rendiment** | Apache vs Nginx, SSL/TLS, multidomini | P6 Nexus |
+| ☁️ **Cloud i virtualització** | Migració al núvol, Green IT, eficiència | P7 FoodLogistic, P8 Connecta't |
+| 📚 **Plataformes educatives** | Moodle, Canvas LMS, WordPress | P5 Incubadora, P6 Nexus |
+| 🛠️ **Còpies de seguretat i DRP** | Estratègia 3-2-1, Duplicati, scripts Bash | P7 FoodLogistic |
+| ♻️ **Sostenibilitat i Green IT** | Economia circular, eficiència energètica, cloud verd, reducció de petjada de carboni | P5 Incubadora, P7 FoodLogistic, P8 Connecta't |
+
+---
 
 ---
 🚀 **L'equip de consultoria d'EverPia està llest per a la defensa final davant la junta directiva.**
