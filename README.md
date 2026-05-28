@@ -33,7 +33,8 @@ Davant l'augment de clients exigents, contractes crítics i servidors cremant, h
 
 Després de l'èxit del primer projecte, EverPia ha crescut. Els clients s'han multiplicat, els servidors cremen i el caos ha arribat per quedar-se. Aquesta és la vostra història de supervivència.
 
-🎯 Què és EverPia 2?
+## 🎯 Què és EverPia 2?
+
 És una simulació realista del dia a dia dins d'una empresa tecnològica en plena expansió. Ja no sou aprenents: ara sou tècnics júnior del departament IT i la infraestructura de l'empresa està a les vostres mans.
 
 * 📁 **[projecte4 — Publicació i Resolució de Noms](https://github.com/Cuencaferran/projecte4)**
