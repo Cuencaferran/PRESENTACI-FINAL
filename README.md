@@ -27,15 +27,15 @@ Davant l'augment de clients exigents, contractes crítics i servidors cremant, h
 ### 🛠️ Fase Inicial i Fonaments (Projectes Base)
 * 📁 **[Projecte2 — Organització de la Consultora](https://github.com/Cuencaferran/Projecte2))**
 
- EverPia és una consultora tecnològica fictícia fundada per 8 professors amb passió per la informàtica i l'educació. El projecte simula un entorn professional real on els participants (nous consultors) hauran de resoldre encàrrecs de clients diversos mentre aprenen a treballar en equip.
+ EverPia és una consultora tecnològica fictícia fundada per 8 professors amb passió per la informàtica i l'educació. El projecte simula un entorn professional real on els participants (Que hem sigut nosaltres) hauram de resoldre encàrrecs de clients diversos mentre aprenem a treballar en equip.
  
 * 📁 **[projecte3 — Serveis de Xarxa i Primers Laboratoris](https://github.com/Cuencaferran/projecte3)**
 
-Després de l'èxit del primer projecte, EverPia ha crescut. Els clients s'han multiplicat, els servidors cremen i el caos ha arribat per quedar-se. Aquesta és la vostra història de supervivència.
+Després de l'èxit del primer projecte, EverPia ha crescut. Els clients s'han multiplicat, els servidors cremen i el caos ha arribat per quedar-se. Aquesta és la nostre història de supervivència.
 
 ## 🎯 Què és EverPia 2?
 
-És una simulació realista del dia a dia dins d'una empresa tecnològica en plena expansió. Ja no sou aprenents: ara sou tècnics júnior del departament IT i la infraestructura de l'empresa està a les vostres mans.
+És una simulació realista del dia a dia dins d'una empresa tecnològica en plena expansió. Ja no som aprenents: ara som tècnics júnior del departament IT i la infraestructura de l'empresa està a les nostres mans.
 
 * 📁 **[projecte4 — Publicació i Resolució de Noms](https://github.com/Cuencaferran/projecte4)**
 
@@ -43,11 +43,27 @@ Aquest document resumeix la tercera i última entrega de la saga EverPia, un pro
 
 ## 🎯 Què és EverPia 3?
 
-És el capítol final d'una trilogia que ha acompanyat els participants des del seu primer dia com a aprenents fins a convertir-se en professionials capacitats per afrontar qualsevol repte tecnològic.
+És el capítol final d'una trilogia que ens ha acompanyat des del seu primer dia com a aprenents fins a convertir-nos en professionials capacitats per afrontar qualsevol repte tecnològic.
 
 ### 🚀 Desplegament Avançat en Clients Reals (GitHub Classroom)
 * 🍃 **[projecte5-Cuencaferran — Cas "La Incubadora"](https://github.com/Cuencaferran/projecte5-Cuencaferran)**
-  * *El gran salt tecnològic: Disseny tècnic integrat, transferència de fitxers segura (SFTP), instal·lació de Windows Server 2025, Active Directory, control de dominis i operacions de ciberseguretat contra malware i vulnerabilitats.*
+
+un projecte formatiu que simula la creació i gestió d'una startup tecnològica des de zero, integrant aspectes tècnics, organitzatius i de sostenibilitat.
+
+## 🏢 Què és "La Incubadora"?
+
+És un projecte que ens posa al capdavant d'una empresa emergent del sector IT, on han de:
+
+# Dissenyar una solució tècnica completa
+
+# Implementar infraestructures de servidor
+
+# Gestionar sistemes corporatius (Active Directory, Moodle)
+
+# Aplicar polítiques de seguretat
+
+# Integrar criteris de sostenibilitat (Green IT)
+ 
 * 🎓 **[projecte6-Cuencaferran — Arquitectura Educativa Nexus](https://github.com/Cuencaferran/projecte6-Cuencaferran)**
   * *Desenvolupament d'una infraestructura e-learning robusta: El Duel de Titans (Apache vs Nginx), implantació de PKI, signatura digital corporativa i anàlisi comparatiu de Moodle vs Canvas LMS.*
 * 🚛 **[projecte7-Cuencaferran — Cas Real FoodLogistic S.A.](https://github.com/Cuencaferran/projecte-7-Cuencaferran)**
