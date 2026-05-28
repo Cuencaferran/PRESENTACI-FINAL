@@ -38,7 +38,12 @@ Després de l'èxit del primer projecte, EverPia ha crescut. Els clients s'han m
 És una simulació realista del dia a dia dins d'una empresa tecnològica en plena expansió. Ja no sou aprenents: ara sou tècnics júnior del departament IT i la infraestructura de l'empresa està a les vostres mans.
 
 * 📁 **[projecte4 — Publicació i Resolució de Noms](https://github.com/Cuencaferran/projecte4)**
-  * *Publicació de la configuració DNS directament en entorns de Git i mètodes de diagnosi.*
+
+Aquest document resumeix la tercera i última entrega de la saga EverPia, un projecte formatiu que simula l'evolució real d'un professional dins d'una consultora tecnològica.
+
+## 🎯 Què és EverPia 3?
+
+És el capítol final d'una trilogia que ha acompanyat els participants des del seu primer dia com a aprenents fins a convertir-se en professionials capacitats per afrontar qualsevol repte tecnològic.
 
 ### 🚀 Desplegament Avançat en Clients Reals (GitHub Classroom)
 * 🍃 **[projecte5-Cuencaferran — Cas "La Incubadora"](https://github.com/Cuencaferran/projecte5-Cuencaferran)**
