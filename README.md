@@ -30,7 +30,12 @@ Davant l'augment de clients exigents, contractes crítics i servidors cremant, h
  EverPia és una consultora tecnològica fictícia fundada per 8 professors amb passió per la informàtica i l'educació. El projecte simula un entorn professional real on els participants (nous consultors) hauran de resoldre encàrrecs de clients diversos mentre aprenen a treballar en equip.
  
 * 📁 **[projecte3 — Serveis de Xarxa i Primers Laboratoris](https://github.com/Cuencaferran/projecte3)**
-  * *Control de fluxos mitjançant Kanban, rèplica web, sistemes d'emmagatzematge lògic (LVM vs Storage Spaces) i configuració de directoris estructurats.*
+
+Després de l'èxit del primer projecte, EverPia ha crescut. Els clients s'han multiplicat, els servidors cremen i el caos ha arribat per quedar-se. Aquesta és la vostra història de supervivència.
+
+🎯 Què és EverPia 2?
+És una simulació realista del dia a dia dins d'una empresa tecnològica en plena expansió. Ja no sou aprenents: ara sou tècnics júnior del departament IT i la infraestructura de l'empresa està a les vostres mans.
+
 * 📁 **[projecte4 — Publicació i Resolució de Noms](https://github.com/Cuencaferran/projecte4)**
   * *Publicació de la configuració DNS directament en entorns de Git i mètodes de diagnosi.*
 
