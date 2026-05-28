@@ -27,7 +27,7 @@ Davant l'augment de clients exigents, contractes crítics i servidors cremant, h
 ### 🛠️ Fase Inicial i Fonaments (Projectes Base)
 * 📁 **[Projecte2 — Organització de la Consultora](https://github.com/Cuencaferran/Projecte2))**
 
- EverPia és una consultora tecnològica fictícia fundada per 8 professors amb passió per la informàtica i l'educació. El projecte simula un entorn professional real on els participants (Que hem sigut nosaltres) hauram de resoldre encàrrecs de clients diversos mentre aprenem a treballar en equip.
+ EverPia és una consultora tecnològica fictícia fundada per 8 professors amb passió per la informàtica i l'educació. El projecte simula un entorn professional real on els participants (Que hem sigut nosaltres) haurem de resoldre encàrrecs de clients diversos mentre aprenem a treballar en equip.
  
 * 📁 **[projecte3 — Serveis de Xarxa i Primers Laboratoris](https://github.com/Cuencaferran/projecte3)**
 
