@@ -84,14 +84,7 @@ FoodLogistic S.A. és una empresa capdavantera en la distribució i logística a
 
  Projecte 8 una simulació professional on els consultors tecnològics ajuden a petites i mitjanes empreses (PIMES) locals a fer el salt a la transformació digital de manera intel·ligent, eficient i sostenible.
   
-
 ---
-
-Perfecte! Aquí tens la taula **llesta per copiar i enganxar** al teu README:
-
----
-
-Perfecte! Aquí tens la taula **actualitzada amb sostenibilitat** (Green IT), llesta per copiar i enganxar:
 
 ---
 
