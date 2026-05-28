@@ -65,7 +65,13 @@ un projecte formatiu que simula la creació i gestió d'una startup tecnològica
 # Integrar criteris de sostenibilitat (Green IT)
  
 * 🎓 **[projecte6-Cuencaferran — Arquitectura Educativa Nexus](https://github.com/Cuencaferran/projecte6-Cuencaferran)**
-  * *Desenvolupament d'una infraestructura e-learning robusta: El Duel de Titans (Apache vs Nginx), implantació de PKI, signatura digital corporativa i anàlisi comparatiu de Moodle vs Canvas LMS.*
+
+Projecte Nexus, una simulació professional on un equip tècnic ha de dissenyar, desplegar i presentar una solució completa de servidor per a una plataforma de formació E-learning.
+
+## 🎯 Què és el Projecte Nexus?
+
+És un projecte integrador que posa l'equip tècnic al servei d'un client real (simulat) que vol posar en marxa una plataforma de formació E-learning pròpia, orientada a cursos per a tècnics informàtics.
+ 
 * 🚛 **[projecte7-Cuencaferran — Cas Real FoodLogistic S.A.](https://github.com/Cuencaferran/projecte-7-Cuencaferran)**
   * *Modernització d'una empresa nacional: Memòria tècnica de proposta, servidors de fitxers i impressió distribuïts, Operació Escut Digital (LOPD, Cookies i legalització web) i planificació temporal amb diagrames de Gantt professionals.*
 * 🌍 **[projecte8-Cuencaferran — Connecta't al Futur](https://github.com/Cuencaferran/projecte-8-Cuencaferran)**
