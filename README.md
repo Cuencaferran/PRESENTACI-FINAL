@@ -81,7 +81,9 @@ Projecte FoodLogistic, una simulació professional on un equip informàtic ha de
 FoodLogistic S.A. és una empresa capdavantera en la distribució i logística alimentària a nivell nacional que, després d'un període d'expansió, necessita modernitzar la seva infraestructura tecnològica per garantir seguretat i continuïtat del negoci.
  
 * 🌍 **[projecte8-Cuencaferran — Connecta't al Futur](https://github.com/Cuencaferran/projecte-8-Cuencaferran)**
-  * *Digitalització real de petites i mitjanes empreses locals aplicant directrius estrictes de Green IT i eficiència en el cloud.*
+
+ Projecte 8 una simulació professional on els consultors tecnològics ajuden a petites i mitjanes empreses (PIMES) locals a fer el salt a la transformació digital de manera intel·ligent, eficient i sostenible.
+  
 
 ---
 
