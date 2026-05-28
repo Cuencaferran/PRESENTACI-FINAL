@@ -73,7 +73,13 @@ Projecte Nexus, una simulació professional on un equip tècnic ha de dissenyar,
 És un projecte integrador que posa l'equip tècnic al servei d'un client real (simulat) que vol posar en marxa una plataforma de formació E-learning pròpia, orientada a cursos per a tècnics informàtics.
  
 * 🚛 **[projecte7-Cuencaferran — Cas Real FoodLogistic S.A.](https://github.com/Cuencaferran/projecte-7-Cuencaferran)**
-  * *Modernització d'una empresa nacional: Memòria tècnica de proposta, servidors de fitxers i impressió distribuïts, Operació Escut Digital (LOPD, Cookies i legalització web) i planificació temporal amb diagrames de Gantt professionals.*
+
+Projecte FoodLogistic, una simulació professional on un equip informàtic ha de modernitzar la infraestructura tecnològica d'una empresa líder en distribució i logística alimentària.
+
+## 🏢 Què és FoodLogistic?
+
+FoodLogistic S.A. és una empresa capdavantera en la distribució i logística alimentària a nivell nacional que, després d'un període d'expansió, necessita modernitzar la seva infraestructura tecnològica per garantir seguretat i continuïtat del negoci.
+ 
 * 🌍 **[projecte8-Cuencaferran — Connecta't al Futur](https://github.com/Cuencaferran/projecte-8-Cuencaferran)**
   * *Digitalització real de petites i mitjanes empreses locals aplicant directrius estrictes de Green IT i eficiència en el cloud.*
 
